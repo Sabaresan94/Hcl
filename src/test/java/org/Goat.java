@@ -5,8 +5,11 @@ public class Goat {
 		System.out.println("vj");
 
 	}
-	public void comedian() {
-		System.out.println("VJ ANNA");
-	}
 
+public void actress() {
+	System.out.println("sneha");
+}
+public void comedian() {
+	System.out.println("VJ ANNA");
+}
 }
